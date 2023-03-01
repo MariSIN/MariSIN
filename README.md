@@ -9,7 +9,7 @@
 ## Contatos:
 
 <div>
-<a href = "mailto:mariana.sn.silva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">: <p>mariana.sn.silva@gmail.com"></p>
 <a href="https://www.linkedin.com/in/mariana-nascimento-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
