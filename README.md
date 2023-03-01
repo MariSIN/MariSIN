@@ -9,7 +9,7 @@
 ## Contatos:
 
 <div>
-          <span><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" target="_blank" width="20" height="20">   mariana.sn.silva@gmail.com</span>
+          <span><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" target="_blank" width="20" height="20" margin="20px">   mariana.sn.silva@gmail.com</span>
           <br>
           <br>
 <a href="https://www.linkedin.com/in/mariana-nascimento-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
