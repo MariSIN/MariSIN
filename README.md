@@ -11,6 +11,7 @@
 
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>  **GitHub** </span>
+<br>
 <span><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="60" height="60"/> **CSS** </span>
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"  width="60" height="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" height="60"/> 
