@@ -9,7 +9,7 @@
 
 <table>
                     <th><h2>Ferramentas e Tecnologias</h2></th>
-
+  <tbody>
                     <tr>
                               <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/></td>
                               <td><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="60" height="60"/> </td>
@@ -26,6 +26,7 @@
                               <td>React</td>
                               <td>Redux</td>                    
                     </tr>
+    </tbody>
                     
 </table>
 
