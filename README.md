@@ -7,8 +7,10 @@
 - ⚡ Curiosidade: Sou formada em Enfermagem e musicista profissional.
 
 
-<h2>Ferramentas e Tecnologias</h2>
 <table>
+          <thead>
+                    <th><h2>Ferramentas e Tecnologias</h2></th>
+          </thead>
           <tbody>
                     <tr>
                               <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/></td>
