@@ -6,11 +6,10 @@
 - 📫 Como entrar em contato comigo: email: mariana.sn.silva@gmail.com | linkedin: https://www.linkedin.com/in/mariana-nascimento-dev/
 - ⚡ Curiosidade: Sou formada em Enfermagem e musicista profissional.
 
-
+ <h2>Ferramentas e Tecnologias</h2>
 <table>    
   
   <tbody>
-    <h2>Ferramentas e Tecnologias</h2>
                     <thead>
                               <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/></th>
                               <th><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="60" height="60"/></th>
