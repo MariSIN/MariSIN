@@ -41,12 +41,9 @@
   
   <tbody>
      <tr>
-         <td>GitHub</td>
-          <td>HTML</td>
-          <td>CSS</td>
-          <td>JavaScript</td>
-          <td>React</td>
-          <td>Redux</td>                    
+          <td>mySql</td>
+          <td>nodeJS</td>
+          <td>Typescript</td>                    
      </tr>
     </tbody>
                     
