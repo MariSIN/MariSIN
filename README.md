@@ -9,7 +9,7 @@
 
 <table>
           <thead>
-                    <th> <h2>Ferramentas e Tecnologias</h2> </th>
+                    <h2>Ferramentas e Tecnologias</h2>
           </thead>
           <tbody>
                     <tr>
