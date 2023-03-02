@@ -7,20 +7,30 @@
 - ⚡ Curiosidade: Sou formada em Enfermagem e musicista profissional.
 
 
-## Ferramentas e Tecnologias
+<table>
+          <thead>
+                    <th> <h2>Ferramentas e Tecnologias</h2> </th>
+          </thead>
+          <tbody>
+                    <tr>
+                              <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/></td>
+                              <td><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="60" height="60"/> </td>
+                              <td><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"  width="60" height="60"/></td>
+                              <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" height="60"/></td>
+                              <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/></td>
+                              <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60"/> </td>
+                    </tr>
+                    <tr>
+                              <td>GitHub</td>
+                              <td>HTML</td>
+                              <td>CSS</td>
+                              <td>JavaScript</td>
+                              <td>React</td>
+                              <td>Redux</td>                    
+                    </tr>
+                    
+          </tbody>
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>  **GitHub** 
-<br>
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="60" height="60"/> **HTML** 
-<br>
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"  width="60" height="60"/> **CSS**
-<br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" height="60"/> **JavaScript**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/> **React**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60"/> **Redux**
 
           
 ## Estou aprendendo  
