@@ -49,12 +49,5 @@
                     
 </table>
 
- 
-
-
-<div>
-<a href="https://github.com/MariSIN">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariSIN&layout=compact&langs_count=7&theme=dracula" width="400"/> <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MariSIN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400"/>
-</div>
           
           
