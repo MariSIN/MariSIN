@@ -51,7 +51,7 @@
 
 <picture>
  <img src=https://github-readme-stats.vercel.app/api?username=MariSIN&theme=synthwave&show_icons=true/>
- <img src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariSIN&layout=compact)](https://github.com/MariSIN/github-readme-stats)
+ <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=MariSIN&layout=compact />
 </picture>
 
           
