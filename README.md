@@ -49,5 +49,9 @@
                     
 </table>
 
+<span> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariSINa&show_icons=true&theme=radical)
+ </span>
+
           
           
