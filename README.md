@@ -53,7 +53,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MariSIN&theme=synthwave&show_icons=true"/>
 </picture>
  <a href="https://github.com/MariSIN/github-readme-stats">
-   <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariSIN&layout=compact&theme=synthwave"/>
+   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariSIN&layout=compact&theme=synthwave"/>
  </a>
 
           
