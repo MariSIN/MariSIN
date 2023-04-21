@@ -38,6 +38,7 @@
          <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></th>
          <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/></th>                          <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/></th>
          <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></th>
+         <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/></th>
    </thead>
   
   <tbody>
@@ -46,6 +47,7 @@
           <td>nodeJS</td>
           <td>Typescript</td>
           <td>MongoDB</td>
+          <td>Sequelize</td>
      </tr>
     </tbody>
                     
