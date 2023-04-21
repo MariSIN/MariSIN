@@ -1,5 +1,5 @@
 # Hello, World!
-# Seja bem-vindo ou bem-vinda ao meu perfil 👋
+# Boas vindas ao meu perfil 👋
 
 - 🌱 Atualmente estou aprendendo desenvolvimento web back-end
 - 👯 Estou procurando colaborar em projetos ou freelances de front-end
