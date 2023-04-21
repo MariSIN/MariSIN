@@ -44,7 +44,8 @@
      <tr>
           <td>mySql</td>
           <td>nodeJS</td>
-          <td>Typescript</td>                    
+          <td>Typescript</td>
+          <td>MongoDB</td>
      </tr>
     </tbody>
                     
