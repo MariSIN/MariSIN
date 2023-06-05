@@ -15,6 +15,10 @@
        <th><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" height="60"/></th>
        <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/></th>
        <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60" height="60"/></th>
+       <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></th>
+       <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/></th>                          <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/></th>
+       <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></th>
+       <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/></th>
   </thead>
   
   <tbody>
@@ -24,8 +28,13 @@
         <td>CSS</td>
         <td>JavaScript</td>
         <td>React</td>
-        <td>Redux</td>                    
-        </tr>
+        <td>Redux</td>
+        <td>mySql</td>
+        <td>nodeJS</td>
+        <td>Typescript</td>
+        <td>MongoDB</td>
+        <td>Sequelize</td>
+       </tr>
     </tbody>
                     
 </table>
@@ -35,22 +44,16 @@
 
 <table>  
    <thead>                
-         <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></th>
-         <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/></th>                          <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/></th>
-         <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></th>
-         <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/></th>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></th>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></th>
    </thead>
-  
-  <tbody>
-     <tr>
-          <td>mySql</td>
-          <td>nodeJS</td>
-          <td>Typescript</td>
-          <td>MongoDB</td>
-          <td>Sequelize</td>
-     </tr>
-    </tbody>
-                    
+ 
+ <tbody>
+  <tr>
+   <td>Python</td>
+   <td>Java</td>
+  </tr>
+ </tbody>                    
 </table>
 
 <picture>
