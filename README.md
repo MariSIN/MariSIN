@@ -1,7 +1,7 @@
 # Hello, World!
 # Boas vindas ao meu perfil 👋
 
-- 🌱 Atualmente estou aprendendo desenvolvimento web back-end
+- 🌱 Atualmente estou aprendendo Python e Java
 - 👯 Estou procurando colaborar em projetos ou freelances de front-end ou back-end
 - 📫 Como entrar em contato comigo: email: mariana.sn.silva@gmail.com | linkedin: https://www.linkedin.com/in/mariana-nascimento-dev/
 - ⚡ Curiosidade: Sou formada em Enfermagem e musicista profissional.
