@@ -44,13 +44,11 @@
 
 <table>  
    <thead>                
-    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></th>
     <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></th>
    </thead>
  
  <tbody>
   <tr>
-   <td>Python</td>
    <td>Java</td>
   </tr>
  </tbody>                    
