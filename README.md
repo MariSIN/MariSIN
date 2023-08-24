@@ -2,7 +2,8 @@
 # Boas vindas ao meu perfil 👋
 
 - 🌱 Atualmente estou aprendendo Java
-- 👯 Estou procurando colaborar em projetos ou freelances de front-end ou back-end
+- 👩🏻‍💻 Cursando Engenharia de Software
+- 👯 Estou procurando colaborar em projetos ou freelances de front-end, back-end ou fullstack
 - 📫 Como entrar em contato comigo: email: mariana.sn.silva@gmail.com | linkedin: https://www.linkedin.com/in/mariana-nascimento-dev/
 - ⚡ Curiosidade: Sou formada em Enfermagem e musicista profissional.
 
