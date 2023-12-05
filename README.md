@@ -46,11 +46,13 @@
 <table>  
    <thead>                
     <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></th>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></th>
    </thead>
  
  <tbody>
   <tr>
    <td>Java</td>
+   <td>Spring</td>
   </tr>
  </tbody>                    
 </table>
