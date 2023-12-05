@@ -46,7 +46,7 @@
 <table>  
    <thead>                
     <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></th>
-    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></th>
+    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></th>
    </thead>
  
  <tbody>
