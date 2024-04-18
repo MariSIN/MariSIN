@@ -6,6 +6,7 @@
 - 👯 Estou procurando colaborar em projetos ou freelances de front-end, back-end ou fullstack
 - 📫 Como entrar em contato comigo: email: mariana.sn.silva@gmail.com | linkedin: https://www.linkedin.com/in/mariana-nascimento-dev/
 - ⚡ Curiosidade: Sou formada em Enfermagem e musicista profissional.
+- 🌲 Trailhead: https://www.salesforce.com/trailblazer/profile
 
  <h2>Ferramentas e Tecnologias</h2>
 <table>    
@@ -17,9 +18,12 @@
        <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></th>
        <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/></th>
        <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></th>
-       <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/></th>                          <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/></th>
+       <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/></th>                          
+       <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/></th>
        <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></th>
        <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" height="40"/></th>
+       <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></th>
+       <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></th>
   </thead>
   
   <tbody>
@@ -35,6 +39,8 @@
         <td>Typescript</td>
         <td>MongoDB</td>
         <td>Sequelize</td>
+        <td>Java</td>
+        <td>Spring</td>
        </tr>
     </tbody>
                     
@@ -45,14 +51,12 @@
 
 <table>  
    <thead>                
-    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></th>
-    <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /></th>
+        <th><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" /></th>
    </thead>
  
  <tbody>
   <tr>
-   <td>Java</td>
-   <td>Spring</td>
+      <td>Salesforce</td>
   </tr>
  </tbody>                    
 </table>
