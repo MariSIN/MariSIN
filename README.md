@@ -6,7 +6,7 @@
 - 👯 Estou procurando colaborar em projetos ou freelances de front-end, back-end ou fullstack
 - 📫 Como entrar em contato comigo: email: mariana.sn.silva@gmail.com | linkedin: https://www.linkedin.com/in/mariana-nascimento-dev/
 - ⚡ Curiosidade: Sou formada em Enfermagem e musicista profissional.
-- 🌲 Trailhead: https://www.salesforce.com/trailblazer/profile
+- 🌲 Trailhead: [Mariana/Trailhead](https://www.salesforce.com/trailblazer/marisn25)
 
  <h2>Ferramentas e Tecnologias</h2>
 <table>    
