@@ -1,7 +1,7 @@
 # Hello, World!
 # Boas vindas ao meu perfil 👋
 
-- 🌱 Atualmente estou aprendendo Java
+- 🌱 Desenvolvedora Fullstack
 - 👩🏻‍💻 Cursando Engenharia de Software
 - 👯 Estou procurando colaborar em projetos ou freelances de front-end, back-end ou fullstack
 - 📫 Como entrar em contato comigo: email: mariana.sn.silva@gmail.com | linkedin: https://www.linkedin.com/in/mariana-nascimento-dev/
