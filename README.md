@@ -1,9 +1,9 @@
 # Hello, World!
 # Boas vindas ao meu perfil 👋
 
-- 🌱 Desenvolvedora Fullstack/Salesforce
-- 👩🏻‍💻 Cursando Engenharia de Software
-- 👯 Estou procurando colaborar em projetos ou freelances de front-end, back-end ou fullstack
+- 🌱 Desenvolvedora Salesforce/Marketing Cloud
+- 👩🏻‍💻 Cursando Sistemas de Informação
+- 👯 Estou procurando colaborar em projetos ou freelances de Marketing Cloud
 - 📫 Como entrar em contato comigo: email: mariana.sn.silva@gmail.com | linkedin: https://www.linkedin.com/in/mariana-nascimento-dev/
 - ⚡ Curiosidade: Sou formada em Enfermagem e musicista profissional.
 - 🌲 Trailhead: [Mariana/Trailhead](https://www.salesforce.com/trailblazer/marisn25)
